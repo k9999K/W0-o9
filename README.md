@@ -4,3 +4,5 @@ Copyrigth, License
 +.02/06/1989
 +.6788639702
 +.cuartiso5*
+    =  cs-8(.doc)
+   +. licencia 
