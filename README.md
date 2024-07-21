@@ -6,3 +6,4 @@ Copyrigth, License
 +.cuartiso5*
     =  cs-8(.doc)
    +. licencia 
+=$4000
